@@ -1,2 +1,2 @@
 # wala-lang
-capsone
+captsone
